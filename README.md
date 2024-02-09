@@ -1,1 +1,1 @@
-# Apprentissage-Varietes
+# Apprentissage-Variétés
